@@ -17,4 +17,9 @@
   1.git remove rm origin
 * remind
   1.每次再更改code先git pull，確保資料最新
+  
+  * Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
   
