@@ -2,7 +2,7 @@
 
 ### git方法紀錄 ###
 * 在git上面先創repo
- * gitclone下來
+  * git clone下來
   * git clone下來
   * 在裡面建立project..寫code
   * 最後git add .
