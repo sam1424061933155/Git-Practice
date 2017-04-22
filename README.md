@@ -2,11 +2,11 @@
 
 ### git方法紀錄 ###
 * 在git先創repo:
-  1.git clone下來
-  2.在裡面建立project..寫code
-  3.最後git add .
-  4.git commit 
-  5.git push
+  1. git clone下來
+  2. 在裡面建立project..寫code
+  3. 最後git add .
+  4. git commit 
+  5. git push
 * 已經在local有repo:
   1.git init
   2.git add .
