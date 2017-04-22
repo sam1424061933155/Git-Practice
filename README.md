@@ -1,12 +1,12 @@
 # git-practice
 
 ### git方法紀錄 ###
-* 在git先創repo
+* 在git上面先創repo
   * git clone下來
   * 在裡面建立project..寫code
   * 最後git add .
   * git commit 
-  * git push
+  * git push<br>
 * 已經在local有repo
   * git init
   * git add .
