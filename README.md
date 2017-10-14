@@ -19,10 +19,9 @@
   * 每次再更改code先git pull，確保資料最新
   
 * git add skill
-
- * git add -A stages All
- * git add . stages new and modified, without deleted
- * git add -u stages modified and deleted, without new
- * 推薦在加入檔案時，指令下 git add -i ，也就是互動模式，進入後選2可以選擇哪些檔案要加入，3是移除已加入的檔案，4是加入untracked的檔案。完成後選1可以確認狀態，然後再下 git commit -m 
+  * git add -A stages All
+  * git add . stages new and modified, without deleted
+  * git add -u stages modified and deleted, without new
+  * 推薦在加入檔案時，指令下 git add -i ，也就是互動模式，進入後選2可以選擇哪些檔案要加入，3是移除已加入的檔案，4是加入untracked的檔案。完成後選1可以確認狀態，然後再下 git commit -m 
 
   
